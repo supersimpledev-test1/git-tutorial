@@ -1,1 +1,1 @@
-console.log('version 4 amended');
+console.log('version 6');
